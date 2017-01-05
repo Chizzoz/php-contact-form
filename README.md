@@ -7,7 +7,7 @@ I have noticed this question asked a number of times in some developer groups on
 So, let's say you have created your website, maybe a portfolio website using HTML or PHP, with a couple of pages such as Home, About, Portfolio and Contact. You have created a beautiful form on your Contact page with fields such as Name, Phone, Email and Query.
 
 ##Problem
-You have this beatiful form, but you are not really sure how to make it work.
+You have this beautiful form, but you are not really sure how to make it work.
 
 ##Possible Solution
 There are several waysin which one can get feedback or queries submitted using such a form. What I will be sharing is a solution that:
