@@ -19,7 +19,7 @@ There are several ways in which one can get feedback or queries submitted using 
 It's as simple as that. If you like this implementation, you can build upon it with better CSS styling, you can add a drop down combo box to select from different categories such as "Request for Quotation", "Feedback", "General Query", etc, you can integrate it into your CMS or framework... and so on.
 
 ##The Code
-Below is the embedded code for you to quickly have a look at. You can also clone or download the contact.php file in this repository.
+Below is the embedded code for you to quickly have a look at. You can also clone or download the [contact.php](https://github.com/Chizzoz/php-contact-form/blob/first/contact.php "contact.php") file in this repository.
 
 ``` php
 
