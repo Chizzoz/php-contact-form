@@ -8,19 +8,19 @@ So, let's say you have created your website:
 - maybe a portfolio website using HTML or PHP, with a couple of pages such as Home, About, Portfolio and Contact OR
 - a simple product/ service launch or coming soon landing page where visitors can sign up.
 
-You have created a beautiful form on your Contact page or section with fields such as Name, Phone, Email and Query.
+You have created a beautiful form on your Contact page or section with fields such as Name, Phone, Email and Inquiry.
 
 ##Problem
 You have this beautiful form, but you are not really sure how to make it work.
 
 ##Possible Solution
-There are several ways in which one can get feedback or queries submitted using such a form. What I will be sharing is a solution that:
+There are several ways in which one can get feedback or inquiries submitted using such a form. What I will be sharing is a solution that:
 
-1. Validates user input; Name, Phone, Email and Query fields using Perform Regular Expression Match (preg_match),
+1. Validates user input; Name, Phone, Email and Inquiry fields using Perform Regular Expression Match (preg_match),
 2. Highlights errors using CSS and
 3. Send an email to a specified email address using PHP.
 
-It's as simple as that. If you like this implementation, you can build upon it with better CSS styling, you can add a drop down combo box to select from different categories such as "Request for Quotation", "Feedback", "General Query", etc, you can integrate it into your CMS or framework... and so on.
+It's as simple as that. If you like this implementation, you can build upon it with better CSS styling, you can add a drop down combo box to select from different categories such as "Request for Quotation", "Feedback", "General Inquiry", etc, you can integrate it into your CMS or framework... and so on.
 
 ##The Code
 Below is the embedded code for you to quickly have a look at. You can also clone or download the [contact.php](https://github.com/Chizzoz/php-contact-form/blob/first/contact.php "contact.php") file in this repository.
