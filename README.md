@@ -6,9 +6,9 @@ I have noticed this question asked a number of times in some developer groups on
 ##Scenario
 So, let's say you have created your website:
 - maybe a portfolio website using HTML or PHP, with a couple of pages such as Home, About, Portfolio and Contact OR
-- could be a simple product/ service launch or coming soon landing page where visitors can sign up
+- a simple product/ service launch or coming soon landing page where visitors can sign up.
 
-You have created a beautiful form on your Contact page with fields such as Name, Phone, Email and Query.
+You have created a beautiful form on your Contact page or section with fields such as Name, Phone, Email and Query.
 
 ##Problem
 You have this beautiful form, but you are not really sure how to make it work.
