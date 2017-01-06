@@ -90,14 +90,14 @@ Below is the embedded code for you to quickly have a look at. You can also clone
 	if (isset($fill)) {
 		if (empty($nameErr) && empty($emailErr) && empty($phoneErr) && empty($inquiryErr)) {
 			// Inquiry sent from address below
-			$email_from = "no-reply@oneziko.com";
+			$email_from = "no-reply@emailadress.com";
 			
 			// Send form contents to address below
-			$email_to = "info@oneziko.com";
+			$email_to = "info@emailadress.com";
 			
 			// Email message subject
 			$today = date("j F, Y. H:i:s");
-			$email_subject = "One Ziko Website Submission [$today]";
+			$email_subject = "Website Submission [$today]";
 			
 			function clean_string($string) {
 
