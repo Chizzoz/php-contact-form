@@ -53,8 +53,8 @@
 							 $name = clean_data($_POST["name"]);
 							 $fill["name"] = $name;
 							 // check if name only contains letters and whitespace
-							 if (!preg_match("/^[a-zA-Z ]*$/",$name)) {
-							   $nameErr = "Only letters and white space allowed"; 
+							 if (!preg_match("/^[a-zA-Z ]{2,255}$/",$name)) {
+							   $nameErr = "Your Name cannot contain a single character, maximum of 255 characters, digits and white space"; 
 							 }
 						   }
 						   
